@@ -36,4 +36,6 @@ def networkmonitor(
     ),
 ) -> None:
     """Conduct a network monitoring campaign with different components."""
+    # TODO: Add a complete implementation of the main function
+    # for the network monitoring tool as described in the README.md file
     return None
